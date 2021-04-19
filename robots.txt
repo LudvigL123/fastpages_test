@@ -1,1 +1,1 @@
-Sitemap: https://ludvigl123.github.io/NN_project/sitemap.xml
+Sitemap: https://ludvigl123.github.io/fastpages_test/sitemap.xml
